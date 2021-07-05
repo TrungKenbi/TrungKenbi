@@ -2,7 +2,7 @@
 
 ![TrungKenbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungkenbi&show_icons=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trungkenbi.trungkenbi)
 
 
 <!--
